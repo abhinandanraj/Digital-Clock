@@ -16,9 +16,7 @@
     div{
         font-family: "Courier New", Courier, monospace;
         font-size:60px;
-        font-weight:bold;
-		
-
+        font-weight:bold;	
         color:#641E16;
     }
 </style>
