@@ -3,5 +3,5 @@ It is digital clock.
 
 Language: PHP, JS
 
-Usage: To add in your web pages easily.
+Usage: To add this digital clock in your web pages easily.
 
